@@ -32,3 +32,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+Desafio - Next.js
+FASE 02
+Informações do desafio
+Neste desafio, você deve criar uma aplicação Next.js com uma página:
+
+- Uma página Server Side Rendering para listar posts. O endereços de acesso deve ser /posts
+
+
+Liste os páginas usando sua criatividade com Tailwind CSS.
+
+
+Coloque a aplicação pra funciona com Docker, ao rodar docker-compos up e acessar http://localhost:3000/posts, devemos ver os posts.
